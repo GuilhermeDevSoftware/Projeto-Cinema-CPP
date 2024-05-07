@@ -1,6 +1,7 @@
 5
-A hora do rush
-Harry Potter
-Interestelar
-Perdido em marte
-Rabbit
+1 - A hora do rush : SESSAO (9h)
+2 - Harry Potter : SESSAO (10h45)
+3 - Interestelar : SESSAO (12h)
+4 - Perdido em marte : SESSAO (15h)
+5 - Rabbit : SESSAO (17h)
+6 - A freira (18+) : SESSAO (19h30)
